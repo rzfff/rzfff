@@ -1,4 +1,4 @@
-### Hi there 👋
+; ### Hi there 👋
 
 <!--
 **rzfff/rzfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Contributions
 ![](https://raw.githubusercontent.com/rzfff/rzfff/output/github-contribution-grid-snake.svg)
+<!--
 ![](https://cdn.jsdelivr.net/gh/rzfff/rzfff@output/github-contribution-grid-snake.svg)
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/rzfff/rzfff@output/github-contribution-grid-snake.svg" /></div>
+-->
