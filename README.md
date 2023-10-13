@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My GitHub Contributions
-![](https://raw.githubusercontent.com/rzfff/rzfff/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/rzfff/rzfff/main/github-contribution-grid-snake.svg)
 <!--
-![](https://cdn.jsdelivr.net/gh/rzfff/rzfff/github-contribution-grid-snake.svg)
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/rzfff/rzfff/github-contribution-grid-snake.svg" /></div>
+![](https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg)
 -->
