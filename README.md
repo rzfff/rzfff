@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 ![](https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg)
--->
-<!-- ### My GitHub Contributions -->
+<!--
+### My GitHub Contributions
 ![](https://raw.githubusercontent.com/rzfff/rzfff/main/github-contribution-grid-snake.svg)
-
+ -->
 [![Rzfff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rzfff&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Rzfff&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
