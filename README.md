@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h1 align="left">Hello World!</h1>
 
 ###
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rzfff.rzfff"  />
 </div>
+-->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg" />
