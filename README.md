@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg)
-<div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rzfff&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzfff&layout=donut&theme=github_dark" height="190" alt="languages graph"  />
 </div>
 
 <!--
+![](https://cdn.jsdelivr.net/gh/rzfff/rzfff@main/github-contribution-grid-snake.svg)
 ### My GitHub Contributions
 ![](https://raw.githubusercontent.com/rzfff/rzfff/main/github-contribution-grid-snake.svg)
 [![Rzfff's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzfff&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
