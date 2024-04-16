@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rzfff&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rzfff&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzfff&layout=donut&theme=github_dark" height="190" alt="languages graph"  />
 </div>
 
